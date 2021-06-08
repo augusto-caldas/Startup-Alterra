@@ -1,7 +1,10 @@
 @echo off
 
 title ALTERRA
+  rem Title of the file
+
 color F1
+  rem Color of the image
 
 echo MMMMMMMMMMMMMMMMMMMMMMMWWWWMMMMMMMMMMMMMMMMMMMMMMM
 echo MMMMMMMMMMMMMMMMMMMMMMWk;,dNMMMMMMMMMMMMMMMMMMMMMM
@@ -29,5 +32,6 @@ echo MKolooONNKl,;,;cxolxxl;;::ollkklllokxl,c0WNOooll0M
 echo MMMMMMMMWMNkdddddxdddxxdxxddddddxdddddxXMMMMWMMMMM
 
 "C:\Program Files\VideoLAN\VLC\vlc.exe" --play-and-exit "C:\Users\Lew\Music\Cyclops_Welcome.oga" -I null
+  rem Path of the vlc command and path of the audio played
 
 exit
