@@ -30,7 +30,7 @@ echo MWNd:kk;'lXx:OWKd,'ok:.';cxl.'.'o:.'.'kNo,,dO:lXMM
 echo MNo;dd,:l,cl'lxONo:XX;.';lxc,do,c;;xl,ol'c:,ok;cXM
 echo MKolooONNKl,;,;cxolxxl;;::ollkklllokxl,c0WNOooll0M
 echo MMMMMMMMWMNkdddddxdddxxdxxddddddxdddddxXMMMMWMMMMM
- rem Image
+  rem Image
 
 "C:\Program Files\VideoLAN\VLC\vlc.exe" --play-and-exit "C:\Users\Lew\Music\Cyclops_Welcome.oga" -I null
   rem Path of the vlc command and path of the audio played
