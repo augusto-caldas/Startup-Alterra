@@ -1,4 +1,4 @@
-# startup-Alterra
+# startup-alterra
 
 You must:
     
